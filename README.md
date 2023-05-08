@@ -20,3 +20,6 @@ And if it requires and you want to add its support, write me [on telegram](https
 2. Server did not issue a license, as it requires additional json-formatted data: 
   ![error_teapot](https://user-images.githubusercontent.com/43696206/145643061-8e44b226-a3c2-4c44-8c62-6db84e582d9e.png)</br>
 3. If "Unable to find PSSH in mpd" - use [this tool](https://tools.axinom.com/generators/PsshBox) to get it manually or write to issues attaching a link to mpd</br>
+
+#KODIPROP:inputstream.adaptive.license_key=https://itspkg.tk/ekta/ts/app/wvproxy.php?id=8
+https://itspkg.tk/ekta/ts/app/manifestproxy.mpd?id=8&e=.mpd
